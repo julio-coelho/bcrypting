@@ -1,0 +1,28 @@
+{
+  "name": "bcrypting",
+  "version": "0.0.1",
+  "description": "A bcrypt - Command Line Interface - tool",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julio-coelho/bcrypting.git"
+  },
+  "keywords": [
+    "bcrypt",
+    "cli"
+  ],
+  "author": "Julio <juliocoelho@icloud.com> (http://juliocoelho.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julio-coelho/bcrypting/issues"
+  },
+  "homepage": "https://github.com/julio-coelho/bcrypting#readme"
+}
